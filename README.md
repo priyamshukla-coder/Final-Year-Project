@@ -1,0 +1,2 @@
+# Final-Year-Project
+BMORE is an Android application which is just similar to a calculator app . The only difference between the normal calculator and this app is that in normal calculator people type the digits and operators and then get the results but in this app the user has to only draw the digits and the mathematical operators on the canvas of the app and the app with the help of Deep Learning Techniques recognizes those digits and operators and gives the result.
